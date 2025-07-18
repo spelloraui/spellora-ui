@@ -38,9 +38,13 @@ function App() {
       <Button />
     </div>
   );
-}
+};
+```
 
-🎥 Video Tutorial
+
+
+
+##   🎥 Video Tutorial
 Watch this quick demo to see how easy it is to use our components:
 
 https://example.com/video-thumbnail.jpg
@@ -54,7 +58,7 @@ Responsive Testing: Always test components at different screen sizes
 
 Component Props: Explore available props for customization options
 
-❓ Need Help?
+## ❓ Need Help?
 Visit our documentation website for:
 
 Component API references
