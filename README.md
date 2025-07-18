@@ -1,6 +1,7 @@
 # Spellora UI 
 
-![Spellora UI Homepage](https://example.com/spellora-ui-homepage.jpg)
+<img width="1920" height="928" alt="Spellora UI and 6 more pages - Personal - Microsoft​ Edge 18-07-2025 17_34_23" src="https://github.com/user-attachments/assets/13036c39-3b2c-4e32-a046-29d7e34393d4" />
+
 
 > A beautiful, accessible collection of React components for modern web applications.
 
