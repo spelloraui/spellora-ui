@@ -38,11 +38,7 @@ function App() {
 }
 
 ```
-src/
-├── components/       # All reusable components
-├── templates/        # Ready-to-use page layouts
-├── styles/           # Global styles and themes
-docs/                 # Usage documentation
+
 
 🎨 Design Principles
 Clean Aesthetics - Minimal, elegant designs
