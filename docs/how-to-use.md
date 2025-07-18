@@ -47,7 +47,8 @@ function App() {
 ##   🎥 Video Tutorial
 Watch this quick demo to see how easy it is to use our components:
 
-https://example.com/video-thumbnail.jpg
+<img width="1458" height="732" alt="spelloraui" src="https://github.com/user-attachments/assets/0fe1fa68-0549-4a67-abf5-1483a41e9e55" />
+
 
 💡 Tips for Best Results
 Check Dependencies: Some components may require additional icons or libraries
@@ -58,13 +59,4 @@ Responsive Testing: Always test components at different screen sizes
 
 Component Props: Explore available props for customization options
 
-## ❓ Need Help?
-Visit our documentation website for:
 
-Component API references
-
-Usage examples
-
-Troubleshooting guides
-
-Frequently asked questions
