@@ -14,14 +14,6 @@ Spellora UI is a modern, accessible, and highly customizable React component lib
 - **Performance Optimized**: Lightweight and fast
 - **Developer Friendly**: Comprehensive docs and examples
 
-## 📦 Project Structure
-
-spellora-ui/
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── templates/ # Ready-to-use page templates
-├── docs/ # Documentation
-
 
 ## 🧩 Component Categories
 
